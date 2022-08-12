@@ -17,7 +17,7 @@ class Pair {
 	}
 }
 
-public class Main_G5_15686_이영준 {
+public class Main_G5_15686 {
 
 	static int n, m, house_cnt, chik_cnt, result, minValues[], dist[][], numbers[];
 
